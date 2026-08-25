@@ -2,6 +2,7 @@
   "name": "it-toolbox",
   "version": "1.0.0",
   "private": true,
+  "type": "module",
   "packageManager": "pnpm@9.0.0",
   "scripts": {
     "dev": "vite",
